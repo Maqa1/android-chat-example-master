@@ -10,6 +10,9 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
 
-        System.out.println("Test");
+        System.out.println("Testq");
+        System.out.println("Testq");
+        System.out.println("Tesqt");
+        System.out.println("Testq");
     }
 }
