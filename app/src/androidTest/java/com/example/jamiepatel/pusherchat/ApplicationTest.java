@@ -12,7 +12,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 
         System.out.println("Testq");
         System.out.println("Testq");
-        System.out.println("Tesqt");
-        System.out.println("Testq");
+
     }
 }
